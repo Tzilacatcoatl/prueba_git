@@ -2,3 +2,13 @@ body{
     background-color: black;
     color: white;
 }
+
+h1{
+    display: block;
+    border: 2px solid gray;
+    background-color:white;
+    color: black;
+    text-align: center;
+    padding: 20px 0px;
+    border-radius: 10px;
+}
